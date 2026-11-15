@@ -28,7 +28,7 @@ The group is led and operated by **Dang-Hieu Nguyen**.
 
 | Project | Description |
 |---|---|
-| [**SourceGuard**](https://github.com/95Lab/sourceguard) | Keeping source code confidential even when the compiler is compromised, using Differential Source Variants (DSV). |
+| [**SourceGuard**](https://github.com/95Lab/sourceguard) | Source protection for self-hosted Git: the server stores only ciphertext, and builds run in isolated cells on scrubbed variants of the code. Architecture, security argument and experimental results are public; the implementation is available on request. |
 | [**minintapp**](https://github.com/95Lab/minintapp) | AI-powered ephemeral mini-apps: Describe → Generate → Run → Share → Remix → Expire. |
 | [**TrafficMate AI**](https://github.com/95Lab/95trafficmate-ai) | A multimodal framework integrating diverse data sources for traffic management and congestion prediction. |
 
