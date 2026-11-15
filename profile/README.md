@@ -2,9 +2,9 @@
 
 # 95LAB
 
-**Research and development of new solutions and emerging technologies in Data Science, Artificial Intelligence, and Security.**
+**Independent, non-profit research on new solutions and emerging technologies in Data Science, Artificial Intelligence, and Security.**
 
-A research unit of · Vietnam
+Vietnam
 
 </div>
 
@@ -12,9 +12,9 @@ A research unit of · Vietnam
 
 ## About Us
 
-95LAB is the research and development team of. We investigate, prototype, and validate new technologies, then turn them into practical solutions.
+95LAB is an independent, non-profit research group, not affiliated with any company. We investigate, prototype, and validate new technologies, then turn them into practical solutions.
 
-The lab is led and operated by **Dang-Hieu Nguyen**, Head of 95LAB.
+The group is led and operated by **Dang-Hieu Nguyen**.
 
 ## Research Areas
 
@@ -36,15 +36,15 @@ The lab is led and operated by **Dang-Hieu Nguyen**, Head of 95LAB.
 
 If you use any 95LAB project in research, products, or derivative work, please follow the `CITATION.cff` and `NOTICE` files in that repository and credit:
 
-> *95LAB
+> *95LAB*
 
 ## Contact
 
-**Dang-Hieu Nguyen**, Head of 95LAB
+**Dang-Hieu Nguyen**
 hillnguyen528@gmail.com
 
 ---
 
 <div align="center">
-© 2026 · 95LAB
+© 2026 95LAB
 </div>
